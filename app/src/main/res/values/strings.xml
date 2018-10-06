@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CarchaCatherineBhelLab5</string>
+    <string name="casa_manila">CASA MANILA</string>
+    <string name="location1">Location: General Luna St. Intramuros, Manila, Luzon Philippines</string>
+    <string name="distance1">Distance From UST: 3.7km</string>
+    <string name="todo1">TODO</string>
+    <string name="activity2">Activity2</string>
+    <string name="maps">Maps</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="fort_santiago">FORT SANTIAGO</string>
+    <string name="Location2">Location: Gen Luna St Intramuros, Manila, Luzon 1002 Philippines</string>
+    <string name="distance2">Distance From UST : 3.8km</string>
+    <string name="activity1">Activity1</string>
+    <string name="maps2">MAPS</string>
+    <string name="todo2">TODO</string>
+</resources>
